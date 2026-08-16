@@ -1,7 +1,5 @@
 # T7 HealthVault
-
-**Developer / Credit:** M M Bharath
-
+<img width="1024" height="1536" alt="workflow" src="https://github.com/user-attachments/assets/1342c014-786a-44c2-b802-81ad564845e6" />
 ---
 
 ## Tech Stack & Libraries Used
@@ -68,8 +66,18 @@
    flutter run
    ```
 
----
+### Sample
+<img width="738" height="1600" alt="WhatsApp Image 2026-08-14 at 7 43 12 AM" src="https://github.com/user-attachments/assets/d39294da-3cc0-43ad-8d5a-697e0d29f7b7" />
+<img width="738" height="1600" alt="WhatsApp Image 2026-08-14 at 7 43 12 AM (1)" src="https://github.com/user-attachments/assets/b50a5428-9290-41ff-938e-709cf68cb4df" />
+<img width="738" height="1600" alt="WhatsApp Image 2026-08-14 at 7 43 11 AM" src="https://github.com/user-attachments/assets/c1332e74-d689-4098-8764-395caeab1f4e" />
 
-## Author
+## 👥 Engineering Team
+* Developed collaboratively by the Smart ASHA Connect Development Team:
 
-Developed by **M M Bharath**.
+-Abhishek Mannatharaj
+
+-Nithelan Jayakumar
+
+-Abdul Shuaib
+
+-M M Bharath
